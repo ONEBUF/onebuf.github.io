@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-11T10:56:41.114Z</updated>
+  <updated>2020-04-12T10:07:46.431Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何解决GitHub域名占用问题</title>
+    <link href="http://yoursite.com/2020/04/12/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3GitHub%E5%9F%9F%E5%90%8D%E5%8D%A0%E7%94%A8%E9%97%AE%E9%A2%98/"/>
+    <id>http://yoursite.com/2020/04/12/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3GitHub%E5%9F%9F%E5%90%8D%E5%8D%A0%E7%94%A8%E9%97%AE%E9%A2%98/</id>
+    <published>2020-04-12T09:16:31.000Z</published>
+    <updated>2020-04-12T10:07:46.431Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="GitHub绑定域名显示域名被占用解决方法"><a href="#GitHub绑定域名显示域名被占用解决方法" class="headerlink" title="GitHub绑定域名显示域名被占用解决方法"></a>GitHub绑定域名显示域名被占用解决方法</h1><p>由于之前用GitHub弄过博客，绑定过自己的域名，明明将之前的项目删除掉了，可是还是还是显示自己域名已经被占用 </p><p>解决方法 联系GitHub客服，告知其domain被占用，<strong>需要手动释放你的域名</strong>，他会给你回信让你给你的域名添加一个TXT解析，操作好以后告知其，然后他们弄好以后会给你回信。</p><p>之后域名就可以正常使用了。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;GitHub绑定域名显示域名被占用解决方法&quot;&gt;&lt;a href=&quot;#GitHub绑定域名显示域名被占用解决方法&quot; class=&quot;headerlink&quot; title=&quot;GitHub绑定域名显示域名被占用解决方法&quot;&gt;&lt;/a&gt;GitHub绑定域名显示域名被占用解决方法&lt;/
+      
+    
+    </summary>
+    
+    
+      <category term="经验" scheme="http://yoursite.com/categories/%E7%BB%8F%E9%AA%8C/"/>
+    
+    
+      <category term="github" scheme="http://yoursite.com/tags/github/"/>
+    
+  </entry>
   
   <entry>
     <title>定一个小目标，大学毕业10万</title>

@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>如何解决GitHub域名占用问题</title>
+      <link href="/2020/04/12/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3GitHub%E5%9F%9F%E5%90%8D%E5%8D%A0%E7%94%A8%E9%97%AE%E9%A2%98/"/>
+      <url>/2020/04/12/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3GitHub%E5%9F%9F%E5%90%8D%E5%8D%A0%E7%94%A8%E9%97%AE%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<h1 id="GitHub绑定域名显示域名被占用解决方法"><a href="#GitHub绑定域名显示域名被占用解决方法" class="headerlink" title="GitHub绑定域名显示域名被占用解决方法"></a>GitHub绑定域名显示域名被占用解决方法</h1><p>由于之前用GitHub弄过博客，绑定过自己的域名，明明将之前的项目删除掉了，可是还是还是显示自己域名已经被占用 </p><p>解决方法 联系GitHub客服，告知其domain被占用，<strong>需要手动释放你的域名</strong>，他会给你回信让你给你的域名添加一个TXT解析，操作好以后告知其，然后他们弄好以后会给你回信。</p><p>之后域名就可以正常使用了。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 经验 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> github </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>定一个小目标，大学毕业10万</title>
       <link href="/2020/04/11/%E5%AE%9A%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%9B%AE%E6%A0%87%EF%BC%8C%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A10%E4%B8%87/"/>
       <url>/2020/04/11/%E5%AE%9A%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%9B%AE%E6%A0%87%EF%BC%8C%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A10%E4%B8%87/</url>
